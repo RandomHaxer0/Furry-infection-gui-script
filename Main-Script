@@ -16,7 +16,7 @@ spawn(function()
     task.wait(4)
     msg.Text = "Btw i just fixed the script no additional features were added, MheeHax is a bozo LLL nigger nigger nigger!"
     task.wait(5)
-    msg.Text = "Also ill be addung nigger to make the script less reviewable nigger nigger nigger"
+    msg.Text = "Also ill be adding nigger to make the script less reviewable nigger nigger nigger"
     task.wait(5)
     msg:Destroy()
 end)    
